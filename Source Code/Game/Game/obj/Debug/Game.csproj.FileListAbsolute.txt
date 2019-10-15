@@ -1,0 +1,10 @@
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\bin\Debug\Game.exe.config
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\bin\Debug\Game.exe
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\bin\Debug\Game.pdb
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.Form1.resources
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.exe
+D:\Stick_Hero_17110217_17110218_17110174\Source Code\Game\Game\obj\Debug\Game.pdb
